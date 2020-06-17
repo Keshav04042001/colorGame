@@ -1,5 +1,4 @@
 document.addEventListener("DOMContentLoaded", function(event){
-	
 			 var colors = squaresColor(6);
 		var square = document.querySelectorAll(".square");
 		var display = document.getElementById("display");
