@@ -40,12 +40,14 @@ h1{
 	width: 10%;
 	font-size: 20px 0;
 }
+
 #stripe{
 	background: white;
 	text-align: center;
 	color: black;
 	height: 30px;
 }
+
 button{
 	border: none;
 	height: 100%;
